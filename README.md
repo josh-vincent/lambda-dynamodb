@@ -1,4 +1,4 @@
-# Lambda get wallet addresses
+# Lambda and DynamoDB
 
 Lambda function for interacting with DynamoDB
 
